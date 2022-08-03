@@ -3,4 +3,8 @@ second?
 third
 fourth - my branch
 fifth - my barnch
+<<<<<<< HEAD
 some hot fix
+=======
+기능1추가
+>>>>>>> 374f0b8 (새로운 기능 1 추가)
